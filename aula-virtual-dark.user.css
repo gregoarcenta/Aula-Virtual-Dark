@@ -491,6 +491,9 @@ button.grid-prevpage:hover{
 #listadoNoticias li .media-body div a{
     color:var(--on-secundary-variant);
 }
+.media-body .link-text-color{
+    color:var(--on-primary-300);
+}
 
 /*Styles of license plates lists */
 #listadoDeudas li{
