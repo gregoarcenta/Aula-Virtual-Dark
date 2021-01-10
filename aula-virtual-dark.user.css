@@ -318,6 +318,9 @@ button.grid-prevpage:hover{
 
 
 /*Selection Page Buttons*/
+.page-section .row .col-md-7 h3{
+    color:var(--on-primary-300);
+}
 .page-section .row .btn-success.paper-shadow.relative{
     background-color:transparent;
     border:solid 1px var(--on-secundary-variant);
